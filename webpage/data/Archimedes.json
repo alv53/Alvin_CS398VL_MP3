@@ -1,0 +1,80 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "viev", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "nutty", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "gingerly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "pinions", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "toilet", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Wart"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "necromantic", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "throng", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "viev", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "elongated", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Assuredly", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Merlyn"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "asleep", 
+                    "size": 3.3925199848049483
+                }, 
+                {
+                    "name": "wait", 
+                    "size": 3.297891512743734
+                }, 
+                {
+                    "name": "magic", 
+                    "size": 2.9515235991531323
+                }, 
+                {
+                    "name": "until", 
+                    "size": 2.6406303960038846
+                }, 
+                {
+                    "name": "Merlyn", 
+                    "size": 2.113326591374424
+                }
+            ], 
+            "name": "Kay"
+        }
+    ], 
+    "name": "Archimedes"
+}

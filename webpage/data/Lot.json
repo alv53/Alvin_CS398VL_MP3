@@ -1,0 +1,280 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "trousers", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "rebelled", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "deals", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "Galls", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "Gaels", 
+                    "size": 3.739120944080442
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "surmise", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "London", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "remarked", 
+                    "size": 3.3154385582341357
+                }, 
+                {
+                    "name": "wild", 
+                    "size": 3.1011686778592615
+                }, 
+                {
+                    "name": "people", 
+                    "size": 2.094499332025715
+                }
+            ], 
+            "name": "Grummore"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "quelling", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "mutinous", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Unto", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "greetings", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "reverent", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "interrupted", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "tone", 
+                    "size": 3.352495470472734
+                }, 
+                {
+                    "name": "...\"", 
+                    "size": 2.9599871115391205
+                }, 
+                {
+                    "name": "voice", 
+                    "size": 2.571544316999717
+                }, 
+                {
+                    "name": "same", 
+                    "size": 2.456738966631416
+                }
+            ], 
+            "name": "Merlyn"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "greetings", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "courageous", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Unto", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "unto", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "flower", 
+                    "size": 3.941869507970586
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "courageous", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "marriage", 
+                    "size": 3.627826802644047
+                }, 
+                {
+                    "name": "bis", 
+                    "size": 3.595552445453518
+                }, 
+                {
+                    "name": "expected", 
+                    "size": 3.564953844016765
+                }, 
+                {
+                    "name": "mistake", 
+                    "size": 3.3925199848049483
+                }
+            ], 
+            "name": "Table"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "border", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "interrupted", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "northern", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "Suppose", 
+                    "size": 3.62754035757475
+                }, 
+                {
+                    "name": "army", 
+                    "size": 3.5652353470050797
+                }
+            ], 
+            "name": "Kay"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "affairs", 
+                    "size": 3.7826300682294063
+                }, 
+                {
+                    "name": "anybody", 
+                    "size": 2.996606266902985
+                }, 
+                {
+                    "name": "hold", 
+                    "size": 2.9181726452707313
+                }, 
+                {
+                    "name": "having", 
+                    "size": 2.778358135280773
+                }, 
+                {
+                    "name": "dead", 
+                    "size": 2.66454562875433
+                }
+            ], 
+            "name": "Morgause"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "greetings", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Unto", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "courageous", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "border", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "trousers", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Orkney"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unbridled", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Everywhere", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Unto", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "greetings", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "contrived", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unbridled", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Everywhere", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "courageous", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "contrived", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "general", 
+                    "size": 3.8829733394657913
+                }
+            ], 
+            "name": "Pellinore"
+        }
+    ], 
+    "name": "Lot"
+}

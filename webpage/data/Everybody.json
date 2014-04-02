@@ -1,0 +1,255 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "unlucky", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "changed", 
+                    "size": 3.595552445453518
+                }, 
+                {
+                    "name": "empty", 
+                    "size": 3.3925199848049483
+                }, 
+                {
+                    "name": "started", 
+                    "size": 3.1760708519691248
+                }, 
+                {
+                    "name": "tournament", 
+                    "size": 3.0784339006468264
+                }
+            ], 
+            "name": "Guenever"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "stoppers", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "taps", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "burghers", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "unruly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "City", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Wart"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "protectors", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "talks", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Commander", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "chief", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "lovers", 
+                    "size": 3.564953844016765
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "coup", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "deluge", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "grabbed", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "anguish", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "amphitheatre", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "drawer", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "top", 
+                    "size": 2.7485419895780963
+                }, 
+                {
+                    "name": "quite", 
+                    "size": 2.673929898816189
+                }, 
+                {
+                    "name": "knew", 
+                    "size": 2.479893234132652
+                }, 
+                {
+                    "name": "out", 
+                    "size": 1.7378486212044009
+                }
+            ], 
+            "name": "Meliagrance"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "sorrow", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "dreadful", 
+                    "size": 3.483687962189401
+                }, 
+                {
+                    "name": "sin", 
+                    "size": 3.459290953619485
+                }, 
+                {
+                    "name": "born", 
+                    "size": 3.2809393982992563
+                }, 
+                {
+                    "name": "lot", 
+                    "size": 3.0255064164082155
+                }
+            ], 
+            "name": "Mordred"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "protectors", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "talks", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Commander", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "chief", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "lovers", 
+                    "size": 3.564953844016765
+                }
+            ], 
+            "name": "Grail"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "nags", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "gossips", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "speculates", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "unseated", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "hints", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Table"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "custom", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "knows", 
+                    "size": 3.1249864635517874
+                }, 
+                {
+                    "name": "about", 
+                    "size": 1.6778085207355806
+                }, 
+                {
+                    "name": "that", 
+                    "size": 1.1486214056900246
+                }, 
+                {
+                    "name": "of", 
+                    "size": 0.8201049559030509
+                }
+            ], 
+            "name": "Castle"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "foible", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "knew", 
+                    "size": 2.479893234132652
+                }, 
+                {
+                    "name": "s", 
+                    "size": 1.5256301366184564
+                }, 
+                {
+                    "name": "'", 
+                    "size": 1.129717330492501
+                }, 
+                {
+                    "name": "of", 
+                    "size": 0.8201049559030509
+                }
+            ], 
+            "name": "Gawaine"
+        }
+    ], 
+    "name": "Everybody"
+}

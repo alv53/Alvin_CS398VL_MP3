@@ -1,0 +1,230 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "straightforward", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "considerate", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "esquires", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "slumped", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "intellectual", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Gareth"
+        }, 
+        {
+            "children": [
+                {
+                    "name": ")--", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Gwenbors", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "G", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "doomed", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "naturally", 
+                    "size": 3.7826300682294063
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": ")--", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Gwenbors", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "G", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "doomed", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "naturally", 
+                    "size": 3.7826300682294063
+                }
+            ], 
+            "name": "Bors"
+        }, 
+        {
+            "children": [
+                {
+                    "name": ":-", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "plots", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "dull", 
+                    "size": 4.0860445282693405
+                }, 
+                {
+                    "name": "game", 
+                    "size": 3.8305913763702533
+                }, 
+                {
+                    "name": "Whatever", 
+                    "size": 3.8302889214648945
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "protested", 
+                    "size": 3.8829733394657913
+                }, 
+                {
+                    "name": "...\"", 
+                    "size": 2.9599871115391205
+                }, 
+                {
+                    "name": "always", 
+                    "size": 2.4730296243963363
+                }, 
+                {
+                    "name": "Gareth", 
+                    "size": 2.4728343595227162
+                }, 
+                {
+                    "name": "us", 
+                    "size": 2.273587846750519
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "tied", 
+                    "size": 3.2183528847412717
+                }, 
+                {
+                    "name": "need", 
+                    "size": 2.987258724274899
+                }, 
+                {
+                    "name": "Oh", 
+                    "size": 2.419488075793005
+                }, 
+                {
+                    "name": "your", 
+                    "size": 1.981666417400514
+                }, 
+                {
+                    "name": "will", 
+                    "size": 1.7534478910859295
+                }
+            ], 
+            "name": "Master"
+        }, 
+        {
+            "children": [
+                {
+                    "name": ")--", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Gwenbors", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "G", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "doomed", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "naturally", 
+                    "size": 3.7826300682294063
+                }
+            ], 
+            "name": "Morgause"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "straightforward", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "considerate", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "esquires", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "slumped", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "intellectual", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "straightforward", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "considerate", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "intellectual", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": ")--", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "antagonistic", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Agravaine"
+        }
+    ], 
+    "name": "Gaheris"
+}

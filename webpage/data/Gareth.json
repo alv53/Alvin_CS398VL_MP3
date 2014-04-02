@@ -1,0 +1,376 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "Then", 
+                    "size": 2.2453209757293275
+                }, 
+                {
+                    "name": "What", 
+                    "size": 2.121290630330105
+                }, 
+                {
+                    "name": ":", 
+                    "size": 1.933977445488662
+                }, 
+                {
+                    "name": "did", 
+                    "size": 1.8957280792274098
+                }, 
+                {
+                    "name": "do", 
+                    "size": 1.7258151154334915
+                }
+            ], 
+            "name": "Lamorak"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Kind", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "forgiver", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "thumps", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "hearty", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "exchanging", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Pellinore"
+        }, 
+        {
+            "children": [
+                {
+                    "name": ")--", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Gwenbors", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "G", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "doomed", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "naturally", 
+                    "size": 3.7826300682294063
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": ")--", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Gwenbors", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "G", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "doomed", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "naturally", 
+                    "size": 3.7826300682294063
+                }
+            ], 
+            "name": "Bors"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "warn", 
+                    "size": 3.739120944080442
+                }, 
+                {
+                    "name": "trap", 
+                    "size": 3.4595641130441237
+                }, 
+                {
+                    "name": "purpose", 
+                    "size": 3.459290953619485
+                }, 
+                {
+                    "name": "afraid", 
+                    "size": 2.9688375989586424
+                }, 
+                {
+                    "name": "...\"", 
+                    "size": 2.9599871115391205
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "dodderers", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "leaven", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "appeal", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "Westminster", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "elsewhere", 
+                    "size": 4.008640476785123
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "chantries", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "wha", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "pleaded", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "Bishop", 
+                    "size": 3.8829733394657913
+                }, 
+                {
+                    "name": "unhorsed", 
+                    "size": 3.78292875980144
+                }
+            ], 
+            "name": "Mordred"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "straightforward", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "considerate", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "esquires", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "slumped", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "intellectual", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Gaheris"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Oh", 
+                    "size": 2.419488075793005
+                }, 
+                {
+                    "name": "!", 
+                    "size": 1.6608190730909602
+                }, 
+                {
+                    "name": ",", 
+                    "size": 0.41565232512910544
+                }, 
+                {
+                    "name": "\"", 
+                    "size": 0.3734732576506997
+                }
+            ], 
+            "name": "Master"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "dodderers", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "leaven", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "elsewhere", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "Aglovale", 
+                    "size": 3.372107375683709
+                }, 
+                {
+                    "name": "tone", 
+                    "size": 3.352495470472734
+                }
+            ], 
+            "name": "Grummore"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "dodderers", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "leaven", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "elsewhere", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "Aglovale", 
+                    "size": 3.372107375683709
+                }, 
+                {
+                    "name": "tone", 
+                    "size": 3.352495470472734
+                }
+            ], 
+            "name": "Palomides"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Maidens", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Uwaine", 
+                    "size": 3.8302889214648945
+                }, 
+                {
+                    "name": "indeed", 
+                    "size": 3.3925199848049483
+                }, 
+                {
+                    "name": "Well", 
+                    "size": 2.344964401525911
+                }, 
+                {
+                    "name": "came", 
+                    "size": 2.1214581359073583
+                }
+            ], 
+            "name": "Castle"
+        }, 
+        {
+            "children": [
+                {
+                    "name": ")--", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Gwenbors", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "G", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "doomed", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "naturally", 
+                    "size": 3.7826300682294063
+                }
+            ], 
+            "name": "Morgause"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "straightforward", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "bareback", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "considerate", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "esquires", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "slumped", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "snarled", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "straightforward", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "considerate", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": ")--", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "intellectual", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Agravaine"
+        }
+    ], 
+    "name": "Gareth"
+}

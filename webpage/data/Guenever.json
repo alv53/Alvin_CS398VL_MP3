@@ -1,0 +1,530 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "wraps", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "extraverted", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "artlessness", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "biased", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "noticeable", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Elaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unlucky", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "changed", 
+                    "size": 3.595552445453518
+                }, 
+                {
+                    "name": "empty", 
+                    "size": 3.3925199848049483
+                }, 
+                {
+                    "name": "started", 
+                    "size": 3.1760708519691248
+                }, 
+                {
+                    "name": "tournament", 
+                    "size": 3.0784339006468264
+                }
+            ], 
+            "name": "Everybody"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "skia", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "lash", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "eyelids", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "pore", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "articulation", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Jenny"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "convey", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "sacrifice", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "sacrificed", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "fortnight", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "nursed", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Bors"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "chink", 
+                    "size": 4.982065758537575
+                }, 
+                {
+                    "name": "foreigner", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "needlework", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "appeach", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "unfaithful", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "28", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "vamp", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "sunbeam", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "horror", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "envy", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Galahad"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Tables", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "sheaths", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "chattering", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "battles", 
+                    "size": 3.595268548695093
+                }, 
+                {
+                    "name": "important", 
+                    "size": 3.37237365074496
+                }
+            ], 
+            "name": "Uther"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "infatuation", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "tempestuously", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "insignificant", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "wrestling", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "petalled", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Thrashers", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "million", 
+                    "size": 3.8832799545431342
+                }, 
+                {
+                    "name": "due", 
+                    "size": 3.8302889214648945
+                }, 
+                {
+                    "name": "everybody", 
+                    "size": 2.7545403495882472
+                }, 
+                {
+                    "name": "also", 
+                    "size": 2.6592935519217473
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "veil", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "proposed", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "tonsure", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "hushed", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "proclaimed", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Mordred"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "chink", 
+                    "size": 4.982065758537575
+                }, 
+                {
+                    "name": "infatuation", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "childlessness", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "petalled", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Frenchman", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "disciple", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "soldier", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "pleasant", 
+                    "size": 3.9421807737245325
+                }, 
+                {
+                    "name": "separate", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "warning", 
+                    "size": 3.8829733394657913
+                }
+            ], 
+            "name": "Merlyn"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "5", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "falling", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "notice", 
+                    "size": 3.248667589419599
+                }, 
+                {
+                    "name": "Uncle", 
+                    "size": 2.987258724274899
+                }, 
+                {
+                    "name": "each", 
+                    "size": 2.4347884035183203
+                }
+            ], 
+            "name": "Dap"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "28", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "vamp", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "sunbeam", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "convey", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "horror", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Grail"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "chooses", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "murderous", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "faction", 
+                    "size": 3.4138014724855785
+                }, 
+                {
+                    "name": "Round", 
+                    "size": 3.162735675429265
+                }, 
+                {
+                    "name": "Orkney", 
+                    "size": 2.902066630144106
+                }
+            ], 
+            "name": "Table"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "5", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "falling", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "notice", 
+                    "size": 3.248667589419599
+                }, 
+                {
+                    "name": "Dap", 
+                    "size": 3.089672103259411
+                }, 
+                {
+                    "name": "each", 
+                    "size": 2.4347884035183203
+                }
+            ], 
+            "name": "Uncle"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "11", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "Carlisle", 
+                    "size": 3.8829733394657913
+                }, 
+                {
+                    "name": "chamber", 
+                    "size": 3.248667589419599
+                }, 
+                {
+                    "name": "sat", 
+                    "size": 2.6545084485628068
+                }, 
+                {
+                    "name": "Queen", 
+                    "size": 2.1214581359073583
+                }
+            ], 
+            "name": "Castle"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "thoughtfully", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "person", 
+                    "size": 2.9099414304538476
+                }, 
+                {
+                    "name": "strange", 
+                    "size": 2.829469892693631
+                }, 
+                {
+                    "name": "must", 
+                    "size": 2.134750053809778
+                }, 
+                {
+                    "name": "Queen", 
+                    "size": 2.1214581359073583
+                }
+            ], 
+            "name": "Morgause"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "chooses", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "murderous", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "faction", 
+                    "size": 3.4138014724855785
+                }, 
+                {
+                    "name": "Round", 
+                    "size": 3.162735675429265
+                }, 
+                {
+                    "name": "Table", 
+                    "size": 2.886679585788275
+                }
+            ], 
+            "name": "Orkney"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "hopelessness", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "flinching", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "perish", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "forcing", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "taboo", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Meliagrance"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "spy", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "attached", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "lately", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "purpose", 
+                    "size": 3.459290953619485
+                }, 
+                {
+                    "name": "among", 
+                    "size": 2.8945424712743573
+                }
+            ], 
+            "name": "Agravaine"
+        }
+    ], 
+    "name": "Guenever"
+}

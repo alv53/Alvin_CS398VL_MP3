@@ -1,0 +1,330 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "wraps", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "extraverted", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "artlessness", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "biased", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "noticeable", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Guenever"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Britain", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "Fay", 
+                    "size": 3.564953844016765
+                }, 
+                {
+                    "name": "le", 
+                    "size": 3.436029108953913
+                }, 
+                {
+                    "name": "Morgan", 
+                    "size": 3.372107375683709
+                }, 
+                {
+                    "name": "considered", 
+                    "size": 3.3336238163001535
+                }
+            ], 
+            "name": "Morgause"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "pathos", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "uncertain", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "reality", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "individual", 
+                    "size": 3.8305913763702533
+                }, 
+                {
+                    "name": "broad", 
+                    "size": 3.8302889214648945
+                }
+            ], 
+            "name": "Jenny"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "interrupting", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "anecdote", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "helpings", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "busily", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "offer", 
+                    "size": 3.941869507970586
+                }
+            ], 
+            "name": "Ector"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "planning", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "18", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "summoned", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "capture", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "messages", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "fortnight", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "nursed", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "Winchester", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "hero", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "scene", 
+                    "size": 3.564953844016765
+                }
+            ], 
+            "name": "Bors"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "planning", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "unfounded", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "25", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "listener", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "rigmarole", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unwittingly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "messages", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "content", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "central", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "tale", 
+                    "size": 4.008640476785123
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "meaningless", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "wrappings", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "cakes", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "mending", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "christened", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Galahad"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Quest", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "whole", 
+                    "size": 2.7151936690122276
+                }, 
+                {
+                    "name": "never", 
+                    "size": 2.3086364556452685
+                }, 
+                {
+                    "name": "if", 
+                    "size": 1.7179781321313468
+                }, 
+                {
+                    "name": "been", 
+                    "size": 1.5998417586675544
+                }
+            ], 
+            "name": "Grail"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "wave", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "barbican", 
+                    "size": 3.8829733394657913
+                }, 
+                {
+                    "name": "Bliant", 
+                    "size": 3.4138014724855785
+                }, 
+                {
+                    "name": "tower", 
+                    "size": 3.2332805450637685
+                }, 
+                {
+                    "name": "rode", 
+                    "size": 2.942742661812938
+                }
+            ], 
+            "name": "Castle"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "approved", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "greeted", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "served", 
+                    "size": 3.739120944080442
+                }, 
+                {
+                    "name": "joy", 
+                    "size": 3.699388525170665
+                }, 
+                {
+                    "name": "forty", 
+                    "size": 3.536372380190298
+                }
+            ], 
+            "name": "Pelles"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "wonderful", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "messages", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "imaginary", 
+                    "size": 3.7826300682294063
+                }, 
+                {
+                    "name": "talked", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "Ban", 
+                    "size": 3.5093366347047583
+                }
+            ], 
+            "name": "Gawaine"
+        }
+    ], 
+    "name": "Elaine"
+}

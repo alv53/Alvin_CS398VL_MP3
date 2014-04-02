@@ -1,0 +1,480 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "gout", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "trickled", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "poetic", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "defeats", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "barely", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Beast"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "asleep", 
+                    "size": 3.3925199848049483
+                }, 
+                {
+                    "name": "wait", 
+                    "size": 3.297891512743734
+                }, 
+                {
+                    "name": "magic", 
+                    "size": 2.9515235991531323
+                }, 
+                {
+                    "name": "until", 
+                    "size": 2.6406303960038846
+                }, 
+                {
+                    "name": "Merlyn", 
+                    "size": 2.113326591374424
+                }
+            ], 
+            "name": "Archimedes"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "swivel", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "villein", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "leash", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "undo", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "reprovingly", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Hob"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "starlit", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "compline", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "toilsome", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "cartwheel", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "flushed", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Marian"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "gout", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "barely", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "hub", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "defeats", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "trickled", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Ector"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "inquisitive", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "3", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "stories", 
+                    "size": 3.595268548695093
+                }, 
+                {
+                    "name": "Orkney", 
+                    "size": 2.902066630144106
+                }, 
+                {
+                    "name": "heard", 
+                    "size": 2.822757852518071
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "apace", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "gout", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "barely", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "stumping", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "defeats", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Grummore"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "regularly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "hose", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Redbreast", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "fullblown", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "wakened", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Robin"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "scooting", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "marigold", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "malevolent", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "gauntlets", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "glared", 
+                    "size": 4.085721903355936
+                }
+            ], 
+            "name": "Cully"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "stated", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "disguised", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "conquered", 
+                    "size": 3.8302889214648945
+                }, 
+                {
+                    "name": "scratched", 
+                    "size": 3.6620395175096294
+                }, 
+                {
+                    "name": "table", 
+                    "size": 3.1011686778592615
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "antiphonically", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "horsed", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "singsong", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Ferioque", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Prioris", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "pronouncing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "misfortunate", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Barabara", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "mnemonic", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "wast", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Merlyn"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "helot", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "battling", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "reprovingly", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "ere", 
+                    "size": 4.288809101995547
+                }, 
+                {
+                    "name": "nah", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Master"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "berth", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "gotten", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "unmolested", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "thereafter", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "mainly", 
+                    "size": 4.085721903355936
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "border", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "interrupted", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "northern", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "Suppose", 
+                    "size": 3.62754035757475
+                }, 
+                {
+                    "name": "army", 
+                    "size": 3.5652353470050797
+                }
+            ], 
+            "name": "Lot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "gout", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "trickled", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "poetic", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "defeats", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "barely", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Palomides"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "fullblown", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "regularly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Redbreast", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "initiation", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "lighted", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Old"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "border", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "inquisitive", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "3", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "northern", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "Suppose", 
+                    "size": 3.62754035757475
+                }
+            ], 
+            "name": "Orkney"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "imaginative", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "thinning", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Barabara", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "familiarity", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "mnemonic", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Wart"
+        }
+    ], 
+    "name": "Kay"
+}

@@ -1,0 +1,180 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "whatever", 
+                    "size": 3.1011686778592615
+                }, 
+                {
+                    "name": "happen", 
+                    "size": 3.015604320851127
+                }, 
+                {
+                    "name": "anybody", 
+                    "size": 2.996606266902985
+                }, 
+                {
+                    "name": "Come", 
+                    "size": 2.8644519493199407
+                }, 
+                {
+                    "name": "enough", 
+                    "size": 2.7373931050329734
+                }
+            ], 
+            "name": "Lance"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "skia", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "lash", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "eyelids", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "pore", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "articulation", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Guenever"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "spitfire", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Christian", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "noble", 
+                    "size": 3.4595641130441237
+                }, 
+                {
+                    "name": "...", 
+                    "size": 3.3527601968996508
+                }, 
+                {
+                    "name": "bit", 
+                    "size": 2.8095981592174626
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "en", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "pathos", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "uncertain", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "reality", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "e", 
+                    "size": 3.8308938312756116
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Aunt", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "remarked", 
+                    "size": 3.3154385582341357
+                }, 
+                {
+                    "name": ",\"", 
+                    "size": 1.250755064006749
+                }, 
+                {
+                    "name": "\"", 
+                    "size": 0.3734732576506997
+                }, 
+                {
+                    "name": ".", 
+                    "size": 0.1879784235072498
+                }
+            ], 
+            "name": "Mordred"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "couldn", 
+                    "size": 3.2645431921778654
+                }, 
+                {
+                    "name": "stop", 
+                    "size": 2.8161347161537713
+                }, 
+                {
+                    "name": "sword", 
+                    "size": 2.5108543046030083
+                }, 
+                {
+                    "name": "go", 
+                    "size": 1.9998051415065548
+                }, 
+                {
+                    "name": "But", 
+                    "size": 1.8934948959202855
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "pathos", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "uncertain", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "reality", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "individual", 
+                    "size": 3.8305913763702533
+                }, 
+                {
+                    "name": "broad", 
+                    "size": 3.8302889214648945
+                }
+            ], 
+            "name": "Elaine"
+        }
+    ], 
+    "name": "Jenny"
+}

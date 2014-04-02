@@ -1,0 +1,480 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "disciple", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "soldier", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "pleasant", 
+                    "size": 3.9421807737245325
+                }, 
+                {
+                    "name": "separate", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "warning", 
+                    "size": 3.8829733394657913
+                }
+            ], 
+            "name": "Guenever"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "necromantic", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "throng", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "viev", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "elongated", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Assuredly", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Archimedes"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "courteously", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "returned", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "duty", 
+                    "size": 3.4363004315304253
+                }, 
+                {
+                    "name": "made", 
+                    "size": 2.086628438612845
+                }, 
+                {
+                    "name": "who", 
+                    "size": 1.7477573238869173
+                }
+            ], 
+            "name": "Hob"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "prophecy", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "genuinely", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "During", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "warfare", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "believed", 
+                    "size": 3.459290953619485
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "reverted", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "eyebrow", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "humility", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "unexpected", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "catching", 
+                    "size": 4.008640476785123
+                }
+            ], 
+            "name": "Orkney"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "mnemonic", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "sensation", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "draggled", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "viev", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "condor", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Wart"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "surely", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "stay", 
+                    "size": 2.9599871115391205
+                }, 
+                {
+                    "name": "exclaimed", 
+                    "size": 2.7543228572590257
+                }, 
+                {
+                    "name": "dear", 
+                    "size": 2.689219943274099
+                }, 
+                {
+                    "name": "My", 
+                    "size": 2.6890076084976857
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "utterly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "sieges", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "strangers", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "relationship", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "winning", 
+                    "size": 4.085721903355936
+                }
+            ], 
+            "name": "Uther"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "distantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "magicians", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "class", 
+                    "size": 3.8302889214648945
+                }, 
+                {
+                    "name": "jousting", 
+                    "size": 3.739120944080442
+                }, 
+                {
+                    "name": "considered", 
+                    "size": 3.3336238163001535
+                }
+            ], 
+            "name": "Grummore"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "hints", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "warned", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "broad", 
+                    "size": 3.8302889214648945
+                }, 
+                {
+                    "name": "Fay", 
+                    "size": 3.564953844016765
+                }, 
+                {
+                    "name": "le", 
+                    "size": 3.436029108953913
+                }
+            ], 
+            "name": "Meliagrance"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "believe", 
+                    "size": 2.910171211046903
+                }, 
+                {
+                    "name": "But", 
+                    "size": 1.8934948959202855
+                }, 
+                {
+                    "name": "!", 
+                    "size": 1.6608190730909602
+                }, 
+                {
+                    "name": "would", 
+                    "size": 1.6365037946956724
+                }, 
+                {
+                    "name": "not", 
+                    "size": 1.336790377242685
+                }
+            ], 
+            "name": "Beast"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "richness", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "fickle", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Christendom", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "schooling", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "fearing", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unwind", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "rope", 
+                    "size": 3.739120944080442
+                }, 
+                {
+                    "name": "patiently", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "brachet", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "conversation", 
+                    "size": 3.4138014724855785
+                }
+            ], 
+            "name": "Pellinore"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "interrupted", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "tone", 
+                    "size": 3.352495470472734
+                }, 
+                {
+                    "name": "...\"", 
+                    "size": 2.9599871115391205
+                }, 
+                {
+                    "name": "voice", 
+                    "size": 2.571544316999717
+                }, 
+                {
+                    "name": "same", 
+                    "size": 2.456738966631416
+                }
+            ], 
+            "name": "Lot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Apropos", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "approved", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Leodegrance", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "Round", 
+                    "size": 3.162735675429265
+                }, 
+                {
+                    "name": "why", 
+                    "size": 2.536505002439948
+                }
+            ], 
+            "name": "Table"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Yik", 
+                    "size": 4.982852504018592
+                }, 
+                {
+                    "name": "drawers", 
+                    "size": 4.982065758537575
+                }, 
+                {
+                    "name": "burners", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "sixpence", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "geographical", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Old"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "pronouncing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "misfortunate", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Barabara", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "mnemonic", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "wast", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Kay"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "isn", 
+                    "size": 3.3336238163001535
+                }, 
+                {
+                    "name": "Right", 
+                    "size": 3.3154385582341357
+                }, 
+                {
+                    "name": "t", 
+                    "size": 1.6100929538189281
+                }, 
+                {
+                    "name": "?", 
+                    "size": 1.3116137356097968
+                }, 
+                {
+                    "name": "is", 
+                    "size": 1.2987827255722366
+                }
+            ], 
+            "name": "Might"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "athletics", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "hub", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "icicle", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "rheumatism", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "scholarships", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Ector"
+        }
+    ], 
+    "name": "Merlyn"
+}

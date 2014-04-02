@@ -1,0 +1,255 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "ased", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "funny", 
+                    "size": 3.595268548695093
+                }, 
+                {
+                    "name": "hated", 
+                    "size": 3.53665162627212
+                }, 
+                {
+                    "name": "Tristram", 
+                    "size": 3.436029108953913
+                }, 
+                {
+                    "name": "common", 
+                    "size": 3.436029108953913
+                }
+            ], 
+            "name": "Lamorak"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "jungle", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "nowadays", 
+                    "size": 3.4138014724855785
+                }, 
+                {
+                    "name": "frightened", 
+                    "size": 3.2648009735417456
+                }, 
+                {
+                    "name": "English", 
+                    "size": 3.248667589419599
+                }, 
+                {
+                    "name": "different", 
+                    "size": 3.1011686778592615
+                }
+            ], 
+            "name": "Wart"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "foray", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "27", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Camelot", 
+                    "size": 3.436029108953913
+                }, 
+                {
+                    "name": "Ones", 
+                    "size": 3.2332805450637685
+                }, 
+                {
+                    "name": "straight", 
+                    "size": 3.1897714209148043
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "foray", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "27", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Camelot", 
+                    "size": 3.436029108953913
+                }, 
+                {
+                    "name": "Ones", 
+                    "size": 3.2332805450637685
+                }, 
+                {
+                    "name": "straight", 
+                    "size": 3.1897714209148043
+                }
+            ], 
+            "name": "Mordred"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "levies", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "inflamed", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "gallow", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "hostile", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "Eleven", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Yik", 
+                    "size": 4.982852504018592
+                }, 
+                {
+                    "name": "drawers", 
+                    "size": 4.982065758537575
+                }, 
+                {
+                    "name": "burners", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "sixpence", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "geographical", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Merlyn"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "plight", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Bonnie", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "doon", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "dee", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "custom", 
+                    "size": 4.085721903355936
+                }
+            ], 
+            "name": "Palomides"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "fullblown", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "regularly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Redbreast", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "initiation", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "lighted", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Kay"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "fullblown", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "regularly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Redbreast", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "initiation", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "lighted", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Robin"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "foray", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "27", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Camelot", 
+                    "size": 3.436029108953913
+                }, 
+                {
+                    "name": "Ones", 
+                    "size": 3.2332805450637685
+                }, 
+                {
+                    "name": "straight", 
+                    "size": 3.1897714209148043
+                }
+            ], 
+            "name": "Agravaine"
+        }
+    ], 
+    "name": "Old"
+}

@@ -1,0 +1,105 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "doctrine", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "responsible", 
+                    "size": 4.0860445282693405
+                }, 
+                {
+                    "name": "enemy", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "important", 
+                    "size": 3.37237365074496
+                }, 
+                {
+                    "name": "Right", 
+                    "size": 3.3154385582341357
+                }
+            ], 
+            "name": "Table"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Right", 
+                    "size": 3.3154385582341357
+                }, 
+                {
+                    "name": "thinking", 
+                    "size": 3.015604320851127
+                }, 
+                {
+                    "name": "about", 
+                    "size": 1.6778085207355806
+                }, 
+                {
+                    "name": "been", 
+                    "size": 1.5998417586675544
+                }, 
+                {
+                    "name": "have", 
+                    "size": 1.3799030888695512
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "isn", 
+                    "size": 3.3336238163001535
+                }, 
+                {
+                    "name": "Right", 
+                    "size": 3.3154385582341357
+                }, 
+                {
+                    "name": "t", 
+                    "size": 1.6100929538189281
+                }, 
+                {
+                    "name": "?", 
+                    "size": 1.3116137356097968
+                }, 
+                {
+                    "name": "is", 
+                    "size": 1.2987827255722366
+                }
+            ], 
+            "name": "Merlyn"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "troubled", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "quest", 
+                    "size": 3.3925199848049483
+                }, 
+                {
+                    "name": "age", 
+                    "size": 3.1499956231734445
+                }, 
+                {
+                    "name": "speak", 
+                    "size": 3.035848271545113
+                }, 
+                {
+                    "name": "story", 
+                    "size": 2.778358135280773
+                }
+            ], 
+            "name": "Lancelot"
+        }
+    ], 
+    "name": "Might"
+}

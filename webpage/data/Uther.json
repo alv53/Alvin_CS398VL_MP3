@@ -1,0 +1,230 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "Tables", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "sheaths", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "chattering", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "battles", 
+                    "size": 3.595268548695093
+                }, 
+                {
+                    "name": "important", 
+                    "size": 3.37237365074496
+                }
+            ], 
+            "name": "Guenever"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "beggar", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "swaddling", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "disguised", 
+                    "size": 3.941869507970586
+                }, 
+                {
+                    "name": "bands", 
+                    "size": 3.7826300682294063
+                }, 
+                {
+                    "name": "golden", 
+                    "size": 3.595268548695093
+                }
+            ], 
+            "name": "Ector"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "ancestors", 
+                    "size": 4.288809101995547
+                }, 
+                {
+                    "name": "Pendragon", 
+                    "size": 3.372107375683709
+                }, 
+                {
+                    "name": "Morgause", 
+                    "size": 3.204110961145037
+                }, 
+                {
+                    "name": "went", 
+                    "size": 2.175058435335928
+                }, 
+                {
+                    "name": "back", 
+                    "size": 2.119988591069252
+                }
+            ], 
+            "name": "Mordred"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "begotten", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "burst", 
+                    "size": 3.483687962189401
+                }, 
+                {
+                    "name": "Pendragon", 
+                    "size": 3.372107375683709
+                }, 
+                {
+                    "name": "night", 
+                    "size": 2.4862590446075417
+                }, 
+                {
+                    "name": "castle", 
+                    "size": 2.4079120213172334
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "utterly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "sieges", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "strangers", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "relationship", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "winning", 
+                    "size": 4.085721903355936
+                }
+            ], 
+            "name": "Merlyn"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "infernal", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "arts", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "nigromancer", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "treacherous", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "succeeded", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Castle"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "ancestors", 
+                    "size": 4.288809101995547
+                }, 
+                {
+                    "name": "Pendragon", 
+                    "size": 3.372107375683709
+                }, 
+                {
+                    "name": "Mordred", 
+                    "size": 2.315102426154303
+                }, 
+                {
+                    "name": "went", 
+                    "size": 2.175058435335928
+                }, 
+                {
+                    "name": "back", 
+                    "size": 2.119988591069252
+                }
+            ], 
+            "name": "Morgause"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "spurned", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "advances", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "chaste", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "resumed", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "Grandfather", 
+                    "size": 4.085721903355936
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Pendragon", 
+                    "size": 3.372107375683709
+                }, 
+                {
+                    "name": "name", 
+                    "size": 2.822757852518071
+                }, 
+                {
+                    "name": "His", 
+                    "size": 2.626721328803487
+                }, 
+                {
+                    "name": "said", 
+                    "size": 1.2894879142156208
+                }, 
+                {
+                    "name": ",\"", 
+                    "size": 1.250755064006749
+                }
+            ], 
+            "name": "Agravaine"
+        }
+    ], 
+    "name": "Uther"
+}

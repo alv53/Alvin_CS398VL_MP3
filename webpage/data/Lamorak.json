@@ -1,0 +1,230 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "ased", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "funny", 
+                    "size": 3.595268548695093
+                }, 
+                {
+                    "name": "hated", 
+                    "size": 3.53665162627212
+                }, 
+                {
+                    "name": "Tristram", 
+                    "size": 3.436029108953913
+                }, 
+                {
+                    "name": "common", 
+                    "size": 3.436029108953913
+                }
+            ], 
+            "name": "Old"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Then", 
+                    "size": 2.2453209757293275
+                }, 
+                {
+                    "name": "What", 
+                    "size": 2.121290630330105
+                }, 
+                {
+                    "name": ":", 
+                    "size": 1.933977445488662
+                }, 
+                {
+                    "name": "did", 
+                    "size": 1.8957280792274098
+                }, 
+                {
+                    "name": "do", 
+                    "size": 1.7258151154334915
+                }
+            ], 
+            "name": "Gareth"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "willingly", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "butchered", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "seduced", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "Cut", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "sleeping", 
+                    "size": 3.739120944080442
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "furious", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "ashamed", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "third", 
+                    "size": 3.2183528847412717
+                }, 
+                {
+                    "name": "yet", 
+                    "size": 3.0459190255294555
+                }, 
+                {
+                    "name": "Table", 
+                    "size": 2.886679585788275
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "willingly", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "butchered", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "seduced", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "grandmother", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "accident", 
+                    "size": 3.699096429748227
+                }
+            ], 
+            "name": "Pellinore"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "furious", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "ashamed", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "third", 
+                    "size": 3.2183528847412717
+                }, 
+                {
+                    "name": "yet", 
+                    "size": 3.0459190255294555
+                }, 
+                {
+                    "name": "having", 
+                    "size": 2.778358135280773
+                }
+            ], 
+            "name": "Table"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "deserved", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "injured", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "felon", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "clan", 
+                    "size": 3.483687962189401
+                }, 
+                {
+                    "name": "To", 
+                    "size": 3.2332805450637685
+                }
+            ], 
+            "name": "Orkney"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "copied", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "sins", 
+                    "size": 4.0860445282693405
+                }, 
+                {
+                    "name": "O", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "tangle", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "murdered", 
+                    "size": 3.6626178560310296
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "treated", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "affair", 
+                    "size": 3.739120944080442
+                }, 
+                {
+                    "name": "naked", 
+                    "size": 3.4138014724855785
+                }, 
+                {
+                    "name": "...", 
+                    "size": 3.3527601968996508
+                }, 
+                {
+                    "name": "Poor", 
+                    "size": 3.352495470472734
+                }
+            ], 
+            "name": "Agravaine"
+        }
+    ], 
+    "name": "Lamorak"
+}

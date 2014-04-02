@@ -1,0 +1,380 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "sorrow", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "dreadful", 
+                    "size": 3.483687962189401
+                }, 
+                {
+                    "name": "sin", 
+                    "size": 3.459290953619485
+                }, 
+                {
+                    "name": "born", 
+                    "size": 3.2809393982992563
+                }, 
+                {
+                    "name": "lot", 
+                    "size": 3.0255064164082155
+                }
+            ], 
+            "name": "Everybody"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "veil", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "proposed", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "tonsure", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "hushed", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "proclaimed", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Guenever"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "foray", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "27", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Camelot", 
+                    "size": 3.436029108953913
+                }, 
+                {
+                    "name": "Ones", 
+                    "size": 3.2332805450637685
+                }, 
+                {
+                    "name": "straight", 
+                    "size": 3.1897714209148043
+                }
+            ], 
+            "name": "Old"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "chantries", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "wha", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "pleaded", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "Bishop", 
+                    "size": 3.8829733394657913
+                }, 
+                {
+                    "name": "unhorsed", 
+                    "size": 3.78292875980144
+                }
+            ], 
+            "name": "Gareth"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "trousseau", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "proposal", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "permission", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "recreant", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "champion", 
+                    "size": 3.66232868677033
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "ancestors", 
+                    "size": 4.288809101995547
+                }, 
+                {
+                    "name": "Pendragon", 
+                    "size": 3.372107375683709
+                }, 
+                {
+                    "name": "Morgause", 
+                    "size": 3.204110961145037
+                }, 
+                {
+                    "name": "went", 
+                    "size": 2.175058435335928
+                }, 
+                {
+                    "name": "back", 
+                    "size": 2.119988591069252
+                }
+            ], 
+            "name": "Uther"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "shouldna", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "unpleasantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "vivid", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "resolvit", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "apologizing", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "spurning", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "matriarchal", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "hypocritical", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "stratagem", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "chariots", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unpleasantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "apologizing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "begging", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "3", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "4", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Grail"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "Aunt", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "remarked", 
+                    "size": 3.3154385582341357
+                }, 
+                {
+                    "name": ",\"", 
+                    "size": 1.250755064006749
+                }, 
+                {
+                    "name": "\"", 
+                    "size": 0.3734732576506997
+                }, 
+                {
+                    "name": ".", 
+                    "size": 0.1879784235072498
+                }
+            ], 
+            "name": "Jenny"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "gain", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "raising", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "Ball", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "powerless", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "therefore", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Table"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "sprang", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "ancestors", 
+                    "size": 4.288809101995547
+                }, 
+                {
+                    "name": "drowned", 
+                    "size": 4.008640476785123
+                }, 
+                {
+                    "name": "babies", 
+                    "size": 3.8302889214648945
+                }, 
+                {
+                    "name": "saved", 
+                    "size": 3.7826300682294063
+                }
+            ], 
+            "name": "Morgause"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "fogey", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "unpleasantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "relatives", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "apologizing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "hatreds", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Orkney"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "ermine", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "embroideries", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "27", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "digger", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "angers", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Gawaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "27", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "angers", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "surly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "incidentally", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "hypocritical", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Agravaine"
+        }
+    ], 
+    "name": "Mordred"
+}

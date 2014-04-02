@@ -1,0 +1,80 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "approved", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "greeted", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "served", 
+                    "size": 3.739120944080442
+                }, 
+                {
+                    "name": "joy", 
+                    "size": 3.699388525170665
+                }, 
+                {
+                    "name": "forty", 
+                    "size": 3.536372380190298
+                }
+            ], 
+            "name": "Elaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "mixed", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "Holy", 
+                    "size": 3.3527601968996508
+                }, 
+                {
+                    "name": "follow", 
+                    "size": 3.281716626520584
+                }, 
+                {
+                    "name": "couldn", 
+                    "size": 3.2645431921778654
+                }, 
+                {
+                    "name": "die", 
+                    "size": 3.248667589419599
+                }
+            ], 
+            "name": "Grail"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "advices", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "yin", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Nigromancy", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "Genealogy", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "remonstrances", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Lancelot"
+        }
+    ], 
+    "name": "Pelles"
+}

@@ -1,0 +1,380 @@
+{
+    "children": [
+        {
+            "children": [
+                {
+                    "name": "Quest", 
+                    "size": 3.536372380190298
+                }, 
+                {
+                    "name": "whole", 
+                    "size": 2.7151936690122276
+                }, 
+                {
+                    "name": "never", 
+                    "size": 2.3086364556452685
+                }, 
+                {
+                    "name": "if", 
+                    "size": 1.7179781321313468
+                }, 
+                {
+                    "name": "been", 
+                    "size": 1.5998417586675544
+                }
+            ], 
+            "name": "Elaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "28", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "vamp", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "sunbeam", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "convey", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "horror", 
+                    "size": 4.4323228626314295
+                }
+            ], 
+            "name": "Guenever"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "protectors", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "talks", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Commander", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "chief", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "lovers", 
+                    "size": 3.564953844016765
+                }
+            ], 
+            "name": "Everybody"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "crystallized", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "protectors", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "talks", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Commander", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "chief", 
+                    "size": 3.699096429748227
+                }
+            ], 
+            "name": "Queen"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "virginal", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "convey", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "dwell", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "describe", 
+                    "size": 4.288470467246079
+                }, 
+                {
+                    "name": "kinder", 
+                    "size": 4.288470467246079
+                }
+            ], 
+            "name": "Bors"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unpleasantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "apologizing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "begging", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "3", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "4", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Agravaine"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "headaches", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "unpleasantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "duels", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "apologizing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "innings", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Lancelot"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unpleasantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "apologizing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "begging", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "3", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "4", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Mordred"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unpleasantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "apologizing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "begging", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "4", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "achieve", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Arthur"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "vamp", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "preached", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "28", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "headaches", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "loathsome", 
+                    "size": 4.981672385797067
+                }
+            ], 
+            "name": "Galahad"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "delay", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Meanwhile", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "important", 
+                    "size": 3.37237365074496
+                }, 
+                {
+                    "name": "Holy", 
+                    "size": 3.3527601968996508
+                }, 
+                {
+                    "name": "news", 
+                    "size": 3.1370870029139075
+                }
+            ], 
+            "name": "Uncle"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "progressive", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "scientist", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "cancer", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "bred", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "devotion", 
+                    "size": 4.635071426521574
+                }
+            ], 
+            "name": "Table"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "mixed", 
+                    "size": 3.699096429748227
+                }, 
+                {
+                    "name": "Holy", 
+                    "size": 3.3527601968996508
+                }, 
+                {
+                    "name": "follow", 
+                    "size": 3.281716626520584
+                }, 
+                {
+                    "name": "couldn", 
+                    "size": 3.2645431921778654
+                }, 
+                {
+                    "name": "die", 
+                    "size": 3.248667589419599
+                }
+            ], 
+            "name": "Pelles"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "unpleasantly", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "apologizing", 
+                    "size": 4.981672385797067
+                }, 
+                {
+                    "name": "begging", 
+                    "size": 4.4323228626314295
+                }, 
+                {
+                    "name": "3", 
+                    "size": 4.176889880740387
+                }, 
+                {
+                    "name": "4", 
+                    "size": 4.176889880740387
+                }
+            ], 
+            "name": "Orkney"
+        }, 
+        {
+            "children": [
+                {
+                    "name": "delay", 
+                    "size": 4.635071426521574
+                }, 
+                {
+                    "name": "Meanwhile", 
+                    "size": 4.085721903355936
+                }, 
+                {
+                    "name": "important", 
+                    "size": 3.37237365074496
+                }, 
+                {
+                    "name": "Holy", 
+                    "size": 3.3527601968996508
+                }, 
+                {
+                    "name": "news", 
+                    "size": 3.1370870029139075
+                }
+            ], 
+            "name": "Dap"
+        }
+    ], 
+    "name": "Grail"
+}
